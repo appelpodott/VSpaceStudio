@@ -1,0 +1,19 @@
+#+TITLE: VSpaceStudio	
+
+* Introduction
+
+  This project introduces spacemacs'like keybindings in Microsoft Visual Studio. 
+
+* Installation
+
+  - Install [[https://github.com/VsVim/VsVim][VsVim]] extension.
+  - Install [[https://www.wholetomato.com/][Visual Assist]] extension.
+
+#+BEGIN_SRC bash
+  git clone git@github.com:appelpodott/VSpaceStudio.git
+  cd VSpaceStudio
+  cp _vimrc C:\Users\%USERNAME%\
+#+END_SRC
+
+* Related Projects
+  - [[https://github.com/VSpaceCode/VSpaceCode][VSpaceCode]]
